@@ -1,5 +1,5 @@
-## Name: JANARTHANAN B
-## Reg no: 212223100014
+## Name: DILIP MP
+## Reg no: 212223230048
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
